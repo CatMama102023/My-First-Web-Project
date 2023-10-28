@@ -4,7 +4,7 @@ Welcome to the Adult Education Learners README! This document is designed to hel
 
 ## Table of Contents
 
-Introduction
+### Introduction
 What is Adult Education?
 Why Adult Education?
 Getting Started
