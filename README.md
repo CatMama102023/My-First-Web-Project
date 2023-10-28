@@ -11,7 +11,7 @@ What is Adult Education?
 Why Adult Education?
 Getting Started
 
-Setting Goals
+### Setting Goals
 Choosing the Right Program
 Finding Resources
 Study Tips
