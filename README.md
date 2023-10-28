@@ -7,7 +7,7 @@ This document is designed to help adult learners make the most of their educatio
 ## Table of Contents
 
 ### Introduction
-What is Adult Basic Education? - For some reason or another, people have to leave school in their early years. ABE allows these people a chance to contine with the pursuit of their education. 
+_What is Adult Basic Education?_ - For some reason or another, people have to leave school in their early years. ABE allows these people a chance to contine with the pursuit of their education. 
 
 Getting Started
 
